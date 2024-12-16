@@ -1,7 +1,15 @@
 # Coze Runninghub API Plugin
 
+[本案例中实现的豆包一键体验地址](https://doubao.com/bot/5e7NCyhD)  
+
 ## 项目简介 / Project Introduction
 
+如果你是类Coze的开发者，想在Coze这类的平台调用ComfyUI帮你完成各种复杂的任务，那么也许这个文档对你有用
+他能解决两个问题
+```
+1.不用自己搭建和部署一个复杂的ComfyUI环境
+2.不用自己保持算力的实时在线
+```
 本项目的目的是帮助 Coze 开发者快速调用 Runninghub API，以便开发 Coze 的功能插件，从而在 Coze 中快速实现调用各种复杂的 ComfyUI 工作流。  
 This project aims to help Coze developers quickly call the Runninghub API, enabling them to develop Coze plugins to easily integrate various complex ComfyUI workflows within Coze.
 
