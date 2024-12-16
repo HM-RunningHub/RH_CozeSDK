@@ -1,6 +1,6 @@
 # Coze Runninghub API Plugin
 
-[本案例中实现的豆包 FLUX文图片 体验地址](https://doubao.com/bot/5e7NCyhD)  
+[本案例中实现的豆包智能体 FLUX文图片 体验地址](https://doubao.com/bot/5e7NCyhD)  
 
 ## 项目简介 / Project Introduction
 
