@@ -2,6 +2,8 @@
 
 [本案例中实现的豆包智能体 FLUX文图片 体验地址](https://doubao.com/bot/5e7NCyhD)  
 
+[plugin 已发布在coze商站中的RH插件,可直接调用](https://www.coze.cn/store/plugin/7457894930095046683?from=plugin_card)
+
 ## 项目简介 / Project Introduction
 
 如果你是类Coze的开发者，想在Coze这类的平台调用ComfyUI帮你完成各种复杂的任务，那么也许这个文档对你有用
