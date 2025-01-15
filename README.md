@@ -2,7 +2,10 @@
 
 [本案例中实现的豆包智能体 FLUX文图片 体验地址](https://doubao.com/bot/5e7NCyhD)  
 
-[plugin 已发布在coze商站中的RH插件,可直接调用](https://www.coze.cn/store/plugin/7457894930095046683?from=plugin_card)
+[已发布在coze.cn商站中的RH插件,可直接调用](https://www.coze.cn/store/plugin/7457894930095046683?from=plugin_card)
+
+[Coze.com marketplace and can be directly accessed.](https://www.coze.com/store/plugin/7460128153768558598?from=plugin_card)
+
 
 ## 项目简介 / Project Introduction
 
